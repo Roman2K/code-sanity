@@ -2,7 +2,7 @@
   "name": "code-sanity",
   "version": "0.1.0",
   "description": "Code directory sanity check",
-  "main": "index.js",
+  "bin": "./bin/code-sanity",
   "scripts": {
     "test": "mocha"
   },
