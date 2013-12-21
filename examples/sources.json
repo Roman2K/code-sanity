@@ -1,0 +1,14 @@
+{
+	"dirs": [{
+		"name": "code/",
+		"path": "~/code",
+		"exclude": ["archive"]
+	}, {
+		"name": "archive/",
+		"path": "~/code/archive"
+	}],
+	"ghAuth": {
+		"username": "Roman2K",
+		"password": "secret"
+	}
+}

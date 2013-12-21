@@ -1,0 +1,6 @@
+Project | Local    | Git | GH
+------- | -------- | --- | --
+proj1   | code/    | No  | No
+proj2   | archive/ | Yes | Yes
+proj3   | none     | No  | Yes
+proj4   | code/    | Yes | No
